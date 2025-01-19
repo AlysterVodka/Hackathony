@@ -19,7 +19,10 @@
 	- Optoma projector 1080p
 	- Brightsign 4k
 	- Oude Wacom > mag kapot
-	- 
+	- Heel veel analoge filmcamera
+	- Razer blade 15 (2017)
+	- Razer Blade 16 (2024) - huidige laptop
+	- Arduino basis set met extra servomotor
 - Hannah
 	-  arduino basis setje met weerstandjes etc
 	- Midi keyboard
@@ -30,8 +33,7 @@
 	- 2x laptop
 	- 1x pc
 	- 1x shit beamertje
-	- 1x kleine auto (suzuki swift)
-	- 1x busje (Citroen jumper oudje)
+	
 - Esther
 	- tools : boormachine, handtools
 	- miljoen datakabels [HDMI, USB, DMX, XLR, Jack, Ethernet CAT7]
@@ -62,7 +64,8 @@
 	- 18 kuub (rijbewijs B) > Hofpleintheater, in overleg en check of die er nog is
 	- 4x bestelbusjes > Hofpleintheater, check of die er nog zijn
 - Hannah
-	- x
+	- Suzuki Swift (kleine auto)
+	- Citroen jumper (busje oudje)
 - Esther
 	- Klapkar
 	- Steekkar alumnium
