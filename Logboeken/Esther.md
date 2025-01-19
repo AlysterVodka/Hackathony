@@ -1,6 +1,7 @@
 ### 19 Januari meeting
 - git intro
 - git kraken heeft #Hannah #gitkraken
+- 
 ### 16 Januari meeting
 Kralingse Bos
 Glow
