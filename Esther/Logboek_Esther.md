@@ -41,6 +41,8 @@
 	- LEAP Motion sensor
 	- Kinect 2.0 [Xbox versie]
 	- Oculus Quest 1
+	- AKAI MK40 midi controller
+	- KORG mini midi controller
 - [ ] Welk onderwerp willen we in gaan?
 	- psychologie [groepsgedrag]
 		- vrijheid / hacktivism
