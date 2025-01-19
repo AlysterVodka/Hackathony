@@ -1,0 +1,44 @@
+#### To Do
+- [ ] Wat kan ik aanbieden?
+	- [ ] Fysieke dingen bouwen
+		- [ ] Hout
+	- [ ] 3D modellering
+		- [ ] Blender
+	- [ ] video editing
+		- [ ] After effects
+		- [ ] premier
+		- [ ] Davinci
+	- [ ] Sound design
+		- [ ] Fmod
+	- [ ] 3D visualisatie
+		- [ ] Blender
+	- [ ] Basis programmeer kennis
+		- [ ] Unity
+	
+
+- [ ] Rol beschrijven van de ander
+	- [ ] #Thyrza -> artist/designer
+		- [ ] Storytelling 
+		- [ ] Presentatie naar buiten toe
+		- [ ] Contacten subsidies etc?
+	- [ ] #Esther -> Engineer/Designer
+		- [ ] Programming
+		- [ ] software en hardware
+		- [ ] Contacten subsidies etc?
+	- [ ] #Hannah -> Technical artist?
+		- [ ] Brug tussen technische en art kant. Tools maken hiervoor?
+		- [ ] Gebruiksvriendelijkheid? 
+			- [ ] Frame bouwen om hardware en software? 
+				- [ ] Bijv letterlijk houten box waar
+- [ ] Welke materialen hebben we?
+	- [ ] arduino basis setje met weerstandjes etc
+	- [ ] Midi keyboard
+	- [ ] Electrisch drumstel
+	- [ ] 3x receiver
+	- [ ] 1x meta quest 2
+	- [ ] 1x htc vive lol
+	- [ ] 2x laptop
+	- [ ] 1x pc
+	- [ ] 1x shit beamertje
+
+- [ ] Welk onderwerp willen we in gaan?
