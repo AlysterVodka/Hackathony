@@ -1,3 +1,9 @@
+
+## MEETINGS
+### 19 Januari meeting
+- git intro
+- git kraken heeft #Hannah #gitkraken
+- aparte .gitignore voor elk persoon? zodat ieder zn eigen changes alleen filed.
 #### To Do
 - [ ] Rol beschrijven van jezelf / wat kan ik aanbieden
 	- programmeren C# , python
@@ -31,16 +37,13 @@
 	- mini LED paneeltjes 5x
 	- fender mustang
 	- VOX buizenversterker + speaker
+	- oude Wacom tekenpad 
+	- LEAP Motion sensor
+	- Kinect 2.0 [Xbox versie]
 - [ ] Welk onderwerp willen we in gaan?
 	- psychologie [groepsgedrag]
 		- vrijheid / hacktivism
 	- 
-
-## MEETINGS
-### 19 Januari meeting
-- git intro
-- git kraken heeft #Hannah #gitkraken
-- aparte .gitignore voor elk persoon? zodat ieder zn eigen changes alleen filed.
 
 ### 16 Januari meeting
 Kralingse Bos
