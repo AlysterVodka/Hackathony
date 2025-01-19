@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"1c10109c956fca48","x":-320,"y":-420,"width":140,"height":60,"type":"text","text":"Inspiratie"}
+	],
+	"edges":[]
+}

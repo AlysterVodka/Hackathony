@@ -1,7 +1,7 @@
 [[Afspraken]]
-[[Hannah]]
-[[Thyrza]]
-[[Esther]]
+[[Logboek_Hannah]]
+[[Logboek_Thyrza]]
+[[Logboek_Esther]]
 [[Hackathon Documentatie]]
 ### Git guide:
 https://kbroman.org/github_tutorial/pages/first_time.html 
