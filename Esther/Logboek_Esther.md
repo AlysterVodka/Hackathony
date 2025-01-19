@@ -12,6 +12,7 @@
 - the 'willing suspension and disbelief' - als je gevoel linkt aan kunst, dan wordt het echt. [als je het aanneemt voor waarheid]. Het heeft met consent te maken: je stapt het theater in bijv.
 - liminal space --> dreamcore
 	- liminal space + extra verhaallaag --> moet wel wat inzitten
+- kid amnesia game radiohead
 #### Ideeën
 - geuren en kleuren --> paint the picture --> jean-paul sartre
 - dingen uitlichten in een ruimte die ieder anders ziet - perspectief
@@ -26,6 +27,13 @@
 - bewegingstracking
 - projecties
 - 3D scanning storytelling
+
+### Conclusie
+- not exactly liminal space
+- koortsdroom - ominous - dreamcore - uncanny valley
+- overgaan van ruimte naar ruimte, je blijven verplaatsen, zit herhaling in, maar je weet nooit precies waar je bent.
+- droom opschrijven --> 
+- transient state
 
 ### Linkjes
 https://www.trashmag.xyz/online-pub/liminal-space-in-the-2020s
