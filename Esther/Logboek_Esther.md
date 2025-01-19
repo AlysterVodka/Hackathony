@@ -29,6 +29,8 @@
 	- ESP32
 	- ESP32 met touchscreen
 	- mini LED paneeltjes 5x
+	- fender mustang
+	- VOX buizenversterker + speaker
 - [ ] Welk onderwerp willen we in gaan?
 	- psychologie [groepsgedrag]
 		- vrijheid / hacktivism
