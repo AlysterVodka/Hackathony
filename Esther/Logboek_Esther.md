@@ -26,18 +26,23 @@
 - bewegingstracking
 - projecties
 - 3D scanning storytelling
+
+### Linkjes
+https://www.trashmag.xyz/online-pub/liminal-space-in-the-2020s
+
 #### To Do
 - [ ] Rol beschrijven van jezelf / wat kan ik aanbieden
-	- programmeren C# , python
+	- programmeren C#, python
 	- game design
-	- grafisch ontwerp
+	- grafisch ontwerp - UI design 
 	- lichttechniek
 	- storytelling / creatief schrijven
 	- creative direction
-	- organisatie
+	- organisatie van projectfiles / planning
+	- technical engineer
 - [ ] Rol beschrijven van de ander
 	- Thyrza: regelen, artistic direction, communicatie, algemene vormgeving, samenbrenger, onderzoek, storytelling
-	- Hannah: vormgeving, programmeren, ruimtelijk, game design, teambuilding
+	- Hannah: vormgeving, programmeren, ruimtelijk, game design, 3D, project structurering
 - [ ] Welke materialen heb ik?
 	- kelder : studio
 	- tools : boormachine, handtools
