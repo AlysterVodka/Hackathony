@@ -26,13 +26,14 @@
 	- https://www.instagram.com/kilmaruig/?hl=en
 
 
-### liminal space
+### semi-liminal space
 De spanning van afwezigheid van anderen waar ze zouden moeten zijn. Teken van leven. 
 Spanning, maar geen angst.
 
-## CONCREET
+## CONCREET-ish
 - Dezelfde ruimte in 3 scenes. Elke scenes met wat voor ons opvalt. bijv met lichtprojectie of VR(MR/AR)
 - Zelfde verhaal, meerdere perspectieven.
 - ~~Bewegingstaal via motion tracking~~
+- Koortsdroom > langzaam van scene naar scene met herkenningspunten
 
 

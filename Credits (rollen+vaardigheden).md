@@ -1,5 +1,5 @@
 ### ROLLEN
-Thyrza
+#Thyrza
 - Creative director
 - Creative / XR designer
 - Storytelling en narration
@@ -7,14 +7,14 @@ Thyrza
 - Networker
 - Researcher
 
-Hannah
+#Hannah
 - Creative / XR designer
 - Scrum master
 - Technical artist
 - Uitvoerder/bouwer
 - Audio ontwerper
 
-Esther
+#Esther
 - Creative / XR designer
 - Technical engineer
 - Programmeur
@@ -25,17 +25,17 @@ Esther
 
 
 ### VAARDIGHEDEN
-Thyrza
+#Thyrza
 - Sociaal ontwerper
 - Scenograaf
-- 
+- ...nog aan te vullen CV'tje inleveren? hahhaha
 
 
-Hannah
+#Hannah
 - Technical artist
 
 
-Esther
+#Esther
 - Programmeren (C-sharp, Python)
 - Game design
 - Grafisch ontwerp > UI-design

@@ -1,13 +1,13 @@
 ### Werkplaatsen
-- Thyrza
+- #Thyrza
 	- Atelier Dennis Coenraad, Utrecht
 	- Studio's Hofpleintheater Rotterdam
 	- Theaterzaal Hofpleintheater Rotterdam
 	- Decorwerkplaats, Rotterdam
 	- Woonhuis, Rotterdam
-- Hannah
+- #Hannah
 	- Schuur, Enschede
-- Esther
+- #Esther
 	- Kelder, Den Haag
 
 
@@ -15,15 +15,16 @@
 
 ### Apparatuur
 
-- Thyrza
+- #Thyrza
 	- Optoma projector 1080p
 	- Brightsign 4k
-	- Oude Wacom > mag kapot
-	- Heel veel analoge filmcamera
+	- Oude Wacom > mag kapot voor nieuwe functie
+	- Heel veel analoge filmcamera's
 	- Razer blade 15 (2017)
 	- Razer Blade 16 (2024) - huidige laptop
 	- Arduino basis set met extra servomotor
-- Hannah
+	- 15 metalen frames in verstelbare maten
+- #Hannah
 	-  arduino basis setje met weerstandjes etc
 	- Midi keyboard
 	- Electrisch drumstel
@@ -34,7 +35,7 @@
 	- 1x pc
 	- 1x shit beamertje
 	
-- Esther
+- #Esther
 	- tools : boormachine, handtools
 	- miljoen datakabels [HDMI, USB, DMX, XLR, Jack, Ethernet CAT7]
 	- lampjes: octostrips, strobe, parretjes RGBW [DMX], los cameralicht RGBW
@@ -61,14 +62,14 @@
 
 ### Vervoer
 
-- Thyrza
+- #Thyrza
 	- Geen rijbewijs whiiii
 	- Volvo S60 2001
 	- 18 kuub (rijbewijs B) > Hofpleintheater, in overleg en check of die er nog is
 	- 4x bestelbusjes > Hofpleintheater, check of die er nog zijn
-- Hannah
+- #Hannah
 	- Suzuki Swift (kleine auto)
 	- Citroen jumper (busje oudje)
-- Esther
+- #Esther
 	- Klapkar
 	- Steekkar alumnium
