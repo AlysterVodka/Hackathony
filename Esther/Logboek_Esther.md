@@ -40,6 +40,7 @@
 	- oude Wacom tekenpad 
 	- LEAP Motion sensor
 	- Kinect 2.0 [Xbox versie]
+	- Oculus Quest 1
 - [ ] Welk onderwerp willen we in gaan?
 	- psychologie [groepsgedrag]
 		- vrijheid / hacktivism

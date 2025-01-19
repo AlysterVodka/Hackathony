@@ -54,7 +54,10 @@
 	- mini LED paneeltjes 5x
 	- fender mustang
 	- VOX buizenversterker + speaker
-
+	- oude Wacom tekenpad - mag niet kapot LOL
+	- LEAP Motion sensor
+	- Kinect 2.0 [Xbox versie]
+	- Oculus Quest 1
 
 ### Vervoer
 
