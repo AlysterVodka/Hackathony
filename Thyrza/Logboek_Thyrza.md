@@ -1,6 +1,8 @@
 IDEAS
 - danstaal onderzoek > hackathon te kort? 
 - Game > compact met ruimtelijke uiting
+	- 3 levels
+
 
 
 
@@ -17,6 +19,7 @@ INTERESTED
 - 3D scanning x storytelling
 
 
+
 ROL
 - Storytelling
 - Visuele vormgeving
@@ -25,9 +28,3 @@ ROL
 
 Artistic director/creative director
 Realist / keeping the heads together / knopen doorhakken
-
-
-BESCHIKBAAR MATERIAAL
-
-
-
