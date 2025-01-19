@@ -1,4 +1,6 @@
-### 16 January meeting
+### 19 Januari meeting
+-  git intro
+### 16 Januari meeting
 Kralingse Bos
 Glow
 Februari stimuleringsfonds

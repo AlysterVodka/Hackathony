@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackathon Documentatie.md",
+                "file": "Logboeken/Esther.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hackathon Documentatie"
+              "title": "Esther"
             }
           }
         ],
@@ -207,12 +207,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae341eb9b7aa2b99",
+  "active": "5ab92ca73c50031d",
   "lastOpenFiles": [
-    "Algemeen.md",
     "Hackathon Documentatie.md",
-    "Logboeken/Esther.md",
+    "README.md",
+    "Algemeen.md",
     "Afspraken.md",
+    "Logboeken/Esther.md",
     "Logboeken/Thyrza.md",
     "Logboeken/Hannah.md",
     "Untitled",
