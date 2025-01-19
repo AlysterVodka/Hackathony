@@ -25,6 +25,10 @@
 	- Focusrite 2i2 2x
 	- steekkar alumnium
 	- klapkar
+	- arduino UNO + basisset
+	- ESP32
+	- ESP32 met touchscreen
+	- mini LED paneeltjes 5x
 - [ ] Welk onderwerp willen we in gaan?
 	- psychologie [groepsgedrag]
 		- vrijheid / hacktivism
