@@ -30,6 +30,8 @@
 	- 2x laptop
 	- 1x pc
 	- 1x shit beamertje
+	- 1x kleine auto (suzuki swift)
+	- 1x busje (Citroen jumper oudje)
 - Esther
 	- tools : boormachine, handtools
 	- miljoen datakabels [HDMI, USB, DMX, XLR, Jack, Ethernet CAT7]
