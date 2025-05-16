@@ -35,19 +35,7 @@
 		{"id":"90dd907c79503374","type":"file","file":"Pasted image 20250120210037.png","x":694,"y":-2528,"width":642,"height":353},
 		{"id":"4e524554b76cfce6","type":"link","url":"https://www.youtube.com/watch?v=54fea7wuV6s","x":693,"y":-2132,"width":640,"height":60},
 		{"id":"1d24ae41bc157825","type":"file","file":"Pasted image 20250120210834.png","x":-1320,"y":-2544,"width":364,"height":546},
-		{"id":"e4cff7bcd2ad364b","type":"file","file":"Pasted image 20250120210910.png","x":1336,"y":-3472,"width":267,"height":400},
-		{"id":"432c426efcd1ded8","type":"text","text":"Sunrise","x":1937,"y":-4102,"width":250,"height":60},
-		{"id":"8d8477f335901839","type":"text","text":"Sunset","x":1937,"y":-4373,"width":250,"height":60},
-		{"id":"01eb2bbbe6e17ba1","type":"text","text":"Night","x":1937,"y":-4523,"width":250,"height":60},
-		{"id":"b81622d2376475b0","type":"text","text":"Cloudy weather, sun through clouds","x":1937,"y":-4229,"width":250,"height":60},
-		{"id":"d1c54fc2ec1ec6e7","type":"text","text":"Experience is 1 day cycle.","x":2352,"y":-4373,"width":250,"height":60},
-		{"id":"cc4e62c2e8b3dbe0","type":"text","text":"Shadows tell the stories. You and others","x":2352,"y":-4072,"width":250,"height":60},
-		{"id":"f7cb0c6139950b16","type":"text","text":"Life starts","x":1603,"y":-4102,"width":250,"height":60},
-		{"id":"ae56c6d210be5ab2","type":"text","text":"Life gives ups and downs","x":1603,"y":-4229,"width":250,"height":60},
-		{"id":"92e38fb0c6ca3f6f","type":"text","text":"Life slows down, getting old","x":1603,"y":-4373,"width":250,"height":60},
-		{"id":"c89e5a674bb4fa92","type":"text","text":"Death","x":1603,"y":-4523,"width":250,"height":60},
-		{"id":"ce8ee02b3b0f4730","type":"text","text":"Life, death cycle","x":1760,"y":-4689,"width":250,"height":60},
-		{"id":"c689697480c92a7b","type":"text","text":"life is only worth living if there is an end ","x":2187,"y":-4689,"width":250,"height":60}
+		{"id":"e4cff7bcd2ad364b","type":"file","file":"Pasted image 20250120210910.png","x":1336,"y":-3472,"width":267,"height":400}
 	],
 	"edges":[
 		{"id":"626508ea45a8262b","fromNode":"3501b2e4b9811fb7","fromSide":"bottom","toNode":"ad67c71a7e73d2f4","toSide":"top"},
@@ -75,19 +63,6 @@
 		{"id":"1ecd2073a051d5a5","fromNode":"d310c8ba660ae4b0","fromSide":"top","toNode":"f8979522ff6bf735","toSide":"bottom"},
 		{"id":"535e0951a109482a","fromNode":"d310c8ba660ae4b0","fromSide":"left","toNode":"6ec8a1f605c40d50","toSide":"right"},
 		{"id":"342ff33d56fbf395","fromNode":"1e4eb855b69ec093","fromSide":"bottom","toNode":"2e19919f179efa0f","toSide":"top"},
-		{"id":"dd54ab4f9e4be4b3","fromNode":"1e4eb855b69ec093","fromSide":"bottom","toNode":"9d775d80491202d7","toSide":"top"},
-		{"id":"c1fd95138610af83","fromNode":"d1c54fc2ec1ec6e7","fromSide":"left","toNode":"432c426efcd1ded8","toSide":"right"},
-		{"id":"6e670edfc9a330ec","fromNode":"d1c54fc2ec1ec6e7","fromSide":"bottom","toNode":"cc4e62c2e8b3dbe0","toSide":"top"},
-		{"id":"c504810c804ed686","fromNode":"432c426efcd1ded8","fromSide":"top","toNode":"b81622d2376475b0","toSide":"bottom"},
-		{"id":"4661e6e6c271b31b","fromNode":"f7cb0c6139950b16","fromSide":"top","toNode":"ae56c6d210be5ab2","toSide":"bottom"},
-		{"id":"3d75e81ff0ab79d8","fromNode":"b81622d2376475b0","fromSide":"top","toNode":"8d8477f335901839","toSide":"bottom"},
-		{"id":"16848d3e72f2612d","fromNode":"8d8477f335901839","fromSide":"top","toNode":"01eb2bbbe6e17ba1","toSide":"bottom"},
-		{"id":"6e23baa89ebd6cc4","fromNode":"ae56c6d210be5ab2","fromSide":"top","toNode":"92e38fb0c6ca3f6f","toSide":"bottom"},
-		{"id":"7cb33d379ece6c04","fromNode":"92e38fb0c6ca3f6f","fromSide":"top","toNode":"c89e5a674bb4fa92","toSide":"bottom"},
-		{"id":"b1aec1447964a0ae","fromNode":"432c426efcd1ded8","fromSide":"left","toNode":"f7cb0c6139950b16","toSide":"right"},
-		{"id":"288708471b4ce40c","fromNode":"b81622d2376475b0","fromSide":"left","toNode":"ae56c6d210be5ab2","toSide":"right"},
-		{"id":"a994f7cc2df80760","fromNode":"8d8477f335901839","fromSide":"left","toNode":"92e38fb0c6ca3f6f","toSide":"right"},
-		{"id":"7554158a4ce2cb12","fromNode":"01eb2bbbe6e17ba1","fromSide":"left","toNode":"c89e5a674bb4fa92","toSide":"right"},
-		{"id":"5415acfb7558c7d5","fromNode":"ce8ee02b3b0f4730","fromSide":"right","toNode":"c689697480c92a7b","toSide":"left"}
+		{"id":"dd54ab4f9e4be4b3","fromNode":"1e4eb855b69ec093","fromSide":"bottom","toNode":"9d775d80491202d7","toSide":"top"}
 	]
 }
