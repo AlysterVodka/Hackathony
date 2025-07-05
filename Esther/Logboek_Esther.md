@@ -20,8 +20,17 @@ Nodig:
 rondom ons blok vinden we een liminal space die wij interessant vinden
 dat verzamelen wij, en dan voegen we dat 'samen'
 #### to do
-- [ ] dingen verzamelen voor onze werkwijze [foto's, filmpjes, [3D]schetsen]
+- [ ] dingen verzamelen voor onze werkwijze [foto's, filmpjes, [3D]schetsen] - om je huis een plek vinden
 	- [ ] dumpen op de github
+	- [ ] liminal space inlezen
+		- [ ] meetup over onze visie en interesse into liminal space
+			1. wat gaan we zoeken in onze omgeving?
+			2. vastleggen van dit
+
+### Deadlines
+- 17 Juli meeting over visie / interesse into liminal space
+- 1 Augustus deadline vastgelegd materiaal
+- 28, 29, 30, 31 Augustus hackathon? Residentie in Frankrijk? La Valée de Moulatre
 
 ## MEETINGS
 ### 19 Januari meeting
