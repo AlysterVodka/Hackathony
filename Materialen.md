@@ -45,6 +45,7 @@
 		- Win 8.1 Geforce 890
 		- Win 10 Geforce 2070 super [eigen laptop]
 		- Win 11 Geforce 2060
+		- win 10 thinkpad X1 Yoga
 	- projector 1080p semi-wide throw
 	- printer HP A4
 	- routers extra 2x

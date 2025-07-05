@@ -1,3 +1,27 @@
+### 5 Juli meeting
+Hannah: sociale factoren die een kind een volwassene maakt
+Thyrza: analoge oefeningen met 'welke kleur broek heb ik aan' - hebben we virtuele omgeving nodig?
+Esther: sartre, omgevingsfactoren opnieuw 'wonder' ontdekken
+- virtuele omgeving: extra oren, neusgat, vingers [bijv]
+Thyrza: hoopje kleding in de hoek van de kamer, lijkt op een [mens] , je komt dichterbij en dan is het een hoopje kleding. - oppassen dat het geen horror wordt, niet te spannend
+- in het blok waarin we wonen [idee] kenteken van liminal space opzoeken - archiveren - kenmerken
+Esther: en dat we dan een sight specific work maken ervan en die samenbrengen tot 1 ruimte
+- centerpoint met 3 verschillende kanten die elk iets zegt over de space [bijv bed, bank, stoel elke hoek anders]
+Thyrza: levensfasen, die loop je door de ruimten heen
+
+### Idee 1
+*langdurig project*
+een hal die vierkant / rond loopt, met een courtyard in het midden, en de buitenkant kamers [bijv oud kloostergebouw]. Daarbij is het handig om als thema zoiets te hebben als 'levensloop' - van begin tot einde [baby tot oud bijv] - virtueel de ruimte steeds lager maken alsof je moet kruipen.
+Nodig:
+- [ ] locatie scouten
+- [ ] acteurs / mensen vinden
+- [ ] 
+### Idee 2
+rondom ons blok vinden we een liminal space die wij interessant vinden
+dat verzamelen wij, en dan voegen we dat 'samen'
+#### to do
+- [ ] dingen verzamelen voor onze werkwijze [foto's, filmpjes, [3D]schetsen]
+	- [ ] dumpen op de github
 
 ## MEETINGS
 ### 19 Januari meeting
@@ -98,3 +122,4 @@ Choreograaf die #Thyrza kent --> artistiek onderzoek --> reflectie --> bewegings
 - #Kinect , begin? goedkoop
 
 - [x] Github --> documentatie opzetten
+

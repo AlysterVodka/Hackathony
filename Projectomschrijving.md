@@ -36,4 +36,4 @@ Spanning, maar geen angst.
 - ~~Bewegingstaal via motion tracking~~
 - Koortsdroom > langzaam van scene naar scene met herkenningspunten
 
-
+ 
