@@ -1,3 +1,8 @@
+#### 22 juli 2025 meeting
+Mee naar Frankrijk
+- internetkabel? --> lang, voor uit het huis naar de schuur
+- router mee die als extender kan werken -> of unmanaged switch
+
 ### 5 Juli meeting
 Hannah: sociale factoren die een kind een volwassene maakt
 Thyrza: analoge oefeningen met 'welke kleur broek heb ik aan' - hebben we virtuele omgeving nodig?
