@@ -5,12 +5,12 @@ version 22/07/2025
 
 - *Liminal is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.*  - Merriam webster
 
-- *(etymology) From latin "līmen" meaning "threshold", first recorded in late 1800s.* 
+- *(etymology) From latin "līmen" meaning "threshold", first recorded in 1890s.* 
 - *(psychology) relating to, or situated at the limen, the threshold at which a stimulus begins to produce an effect.*
 - *relating to a transitional or intermediate state, stage, or period.*
 	- - Dictionary.com
 
-- *Liminality signifies a threshold between two zones, an anteroom distinct from that which could be said to be definitely inside or outside, here and there.* - Landscapes of Liminality paper (pdf below)
+- ==*Liminality signifies a threshold between two zones, an anteroom distinct from that which could be said to be definitely inside or outside, here and there.*== - Landscapes of Liminality paper (pdf below)
 
 #### "Space"
 - *an empty place* 
@@ -19,7 +19,7 @@ version 22/07/2025
 
 - *the unlimited or incalculably great three-dimensional realm or expanse in which all material objects are located and all events occur.* - Dictionary.com
 
-- *The ideas “space” and “place” require each other for definition. From the security and stability of place we are aware of the openness, freedom, and threat of space, and vice-versa. Furthermore, if we think of space as that which allows movement, then place is pause; each pause in movement makes it possible for location to be transformed into place.*
+- ==*The ideas “space” and “place” require each other for definition. From the security and stability of place we are aware of the openness, freedom, and threat of space, and vice-versa. Furthermore, if we think of space as that which allows movement, then place is pause; each pause in movement makes it possible for location to be transformed into place.*==
 	- - Yi-Fu Tuan in Space & Place (via Landscapes of Liminality)
 
 
@@ -28,7 +28,7 @@ version 22/07/2025
 
 #### "Liminal Space" = Spatial act of transitioning
 - - Van Gennep via Landscapes of Liminality
-#### *"Liminal spaces are those which are, simultaneously, place and space. They are familiar, yet unknown; they are secure, and yet intimidating." 
+#### *"==Liminal spaces are those which are, simultaneously, place and space. They are familiar, yet unknown; they are secure, and yet intimidating.==" 
 - - Landscapes of Liminality
 
 
@@ -92,3 +92,14 @@ they are liberating and euphoric—a “both/and” state of affairs that is the
 essence of the liminal."
 
 "Entre-deux" = interspace, gap
+
+###  SIGNS OF LIMINALITY
+- Displacement
+- Bordered
+- Transition 
+- ~~Signs~~ Traces of life
+- In-between
+- Smooth (is it?)
+- Sense of perfection
+- Recognizable
+- 
