@@ -39,7 +39,7 @@ Landscapes of Liminality expands upon existing notions of spatial practice and s
 
 ![[Landscapes of Liminality Between Space and Place (Dara Downey, Ian Kinane, Elizabeth Parker) (Z-Library) 1.pdf]]
 
-#### Thoughts based on Landscapes of Liminatlity:
+#### Thoughts based on Landscapes of Liminality:
 Space = limits, borders = closed/closing
 Liminal = unfolding, becoming = open/opening
 - Contradiction!
@@ -49,21 +49,16 @@ Liminal space = living in between
 *"The project of limning the liminal is especially well suited to literature, which is the form most closely associated with the faculty of the imagination."* 
 - We need to keep triggering imagination! Don't overexplain, no literalness.
 
-*"place is security, space is freedom: we are attached to one, and yearn for the other"* - Yi-Fu Tuan
+*"==place is security, space is freedom: we are attached to one, and yearn for the other=="* - Yi-Fu Tuan
 - place: herkenbaarheid geeft zekerheid
 - space: geographical uncertainty geeft gelijktijdig een gevoel van vrijheid en dreiging.
 
-*"the identity of a place does not derive from some internalized history. the identities of places are unfixed. The social relations are by their very nature dynamic and changing"
+*"The identity of a place does not derive from some internalized history. The identities of places are unfixed. The social relations are by their very nature dynamic and changing"
 - het verhaal komt van de sociale relaties die aan de plek hangen: des te meer interessant om voor een sociaal geladen locatie te gaan voor long term project. (eg klooster)
-*"human conceptions of place and
-space may be dependent on the relationships between real and imagined topographies or spatialities—between the geophysical environment and the human cognition or interpretation of that environment."
+*"human conceptions of place and space may be dependent on the relationships between real and imagined topographies or spatialities—between the geophysical environment and the human cognition or interpretation of that environment."
 
-*"“Liminality” has been utilised as some thing of a catch-all expression for an ambiguous, transitional, or interstitial
-spatiotemporal dimension, and critical discourse often plays fast and
-loose with the term’s descriptive terminology, while sliding away from
-precise definitions."*
-
-Geen harde definitie. De vaagheid van liminal is precies wat het interessant en breed inzetbaar maakt.
+*"“Liminality” has been utilised as some thing of a catch-all expression for an ambiguous, transitional, or interstitial spatiotemporal dimension, and critical discourse often plays fast and loose with the term’s descriptive terminology, while sliding away from precise definitions."*
+- ==Geen harde definitie. De vaagheid van liminal is precies wat het interessant en breed inzetbaar maakt.==
 "*Liminality has been likened to a whole host of subject-positional categories, from “death, to being in the womb, to invisibility, to darkness, to bisexuality, to the wilderness, and to an eclipse of the sun or moon”."*
 - The in-between
 
@@ -78,18 +73,14 @@ Liminal could be interpreted as micro-religious. Active in ceremonies and packed
 
 
 
-### RANDOM THOUGHTS:
+### RANDOM THOUGHTS
 "Limn the liminal" - funny
 
 We zijn voorbij de eerste wave obsessie met liminality en liminal spaces. Belangrijk voor ons is de relevatie vinden voor deze tijd.
 - Connectie Smooth City René Boer? Homogenisering van architectuur wereldwijd. Liminal spaces zijn vaak smooth en render-like, ietswat levenloos. Alsof het constant bijgehouden wordt, maar niet echt geleefd wordt. 
 "“sens(ing) the simultaneous presence of everywhere in the place where
 you are standing31”. - Massey
-Everything is, in other words, fundamentally interconnected,
-but in ways that are (as with the distinctions between space
-and place explored above) potentially as alienating and disorienting as
-they are liberating and euphoric—a “both/and” state of affairs that is the
-essence of the liminal."
+Everything is, in other words, fundamentally interconnected, but in ways that are (as with the distinctions between space and place explored above) potentially as alienating and disorienting as they are liberating and euphoric—a “both/and” state of affairs that is the essence of the liminal."
 
 "Entre-deux" = interspace, gap
 
@@ -102,4 +93,7 @@ essence of the liminal."
 - Smooth (is it?)
 - Sense of perfection
 - Recognizable
-- 
+
+
+### SPACES OF LIMINALITY
+- Hallways

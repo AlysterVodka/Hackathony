@@ -1,3 +1,0 @@
-##### notities
-- Daily sprints 
-- 
