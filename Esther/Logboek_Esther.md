@@ -12,11 +12,12 @@ Ontwerpdrang naar orde wat gebruikt wordt voor wanorde.
 Mee naar Frankrijk
 - internetkabel? --> lang, voor uit het huis naar de schuur
 - router mee die als extender kan werken -> of unmanaged switch
-- router mee voor onderlige communicatie
+- router mee voor onderlinge communicatie
 - ethernet kabels 5x
 - unity installeren
 - thinkpad mee
 - esp32's mee 2x en misschien soldeerspullen?
+- verlengsnoeren
 ### 5 Juli meeting
 Hannah: sociale factoren die een kind een volwassene maakt
 Thyrza: analoge oefeningen met 'welke kleur broek heb ik aan' - hebben we virtuele omgeving nodig?
