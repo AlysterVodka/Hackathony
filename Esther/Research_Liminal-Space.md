@@ -1,4 +1,12 @@
-
+Imperfection is the key [non-design]
+Glitch in the Matrix
+Unfinishedness
+### General Factors needed for something to be liminal space
+- space should not have a purpose other than connecting other spaces together
+- examples: stairways, hallways, doorways, bridges
+- devoid of life where life would be expected
+ - remembering a place you've never been
+### 'Essay'
 Liminal space is the negative space of locations. It exists, but it lingers in limbo. Nothing is there, yet obviously, objects are there, you can visit and populate the space. Usually, liminal space is devoid of life, apart from your own. And not just devoid of life, devoid of any signs that there recently was life. It is a place of transition. It is not meant to be scary or creepy, although it does leave most of use with a feeling of dread. I creates a state of uncertainty. If no one is here, why are we here? Are we supposed to be here? And are we sure we are alone?
 
 Let's unpack what makes a Liminal Space. Often a Liminal Space is devoid of details which can give a hint to what it is used for, or these details are placed in an odd way, making them unlikely to have been used. A chair in a corner, facing the wrong way. A door on an edge which seems to lead nowhere. 
