@@ -93,7 +93,13 @@ Everything is, in other words, fundamentally interconnected, but in ways that ar
 - Smooth (is it?)
 - Sense of perfection
 - Recognizable
+- Negative space (Esther)
 
 
 ### SPACES OF LIMINALITY
-- Hallways
+- Hard kleurcontrast
+- Nacht
+- Leeg
+- Displacement
+- Herhaling of symmetrie
+- Ontwerpdrang naar orde, gebruik met wanorde

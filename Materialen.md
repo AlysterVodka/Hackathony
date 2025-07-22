@@ -24,6 +24,7 @@
 	- Razer Blade 16 (2024) - huidige laptop
 	- Arduino basis set met extra servomotor
 	- 15 metalen frames in verstelbare maten
+	
 - #Hannah
 	-  arduino basis setje met weerstandjes etc
 	- Midi keyboard
