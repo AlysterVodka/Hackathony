@@ -1,8 +1,22 @@
 #### 22 juli 2025 meeting
+balans vinden als snel vormen vinden en rauw randje eraan geven 
+- hard kleurcontrast
+- nacht
+- gevoelsmatig
+- leeg
+- transitie / displacement
+- herhaling / symmetrie [zonder doel]
+
+Ontwerpdrang naar orde wat gebruikt wordt voor wanorde.
+
 Mee naar Frankrijk
 - internetkabel? --> lang, voor uit het huis naar de schuur
 - router mee die als extender kan werken -> of unmanaged switch
-
+- router mee voor onderlige communicatie
+- ethernet kabels 5x
+- unity installeren
+- thinkpad mee
+- esp32's mee 2x en misschien soldeerspullen?
 ### 5 Juli meeting
 Hannah: sociale factoren die een kind een volwassene maakt
 Thyrza: analoge oefeningen met 'welke kleur broek heb ik aan' - hebben we virtuele omgeving nodig?
