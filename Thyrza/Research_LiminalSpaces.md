@@ -1,4 +1,4 @@
-version 22/07/2025
+version 24/07/2025
 ### DEFINITIONS
 #### "Liminal"
 - *Between or belonging to two different places, states, etc.* - Cambridge Dictionary
@@ -36,9 +36,7 @@ version 22/07/2025
 #### abstract:
 Landscapes of Liminality expands upon existing notions of spatial practice and spatial theory, and examines more intricately the contingent notion of “liminality” as a space of “in-between-ness” that avoids either essentialism or stasis. **It capitalises on the extensive research that has already been undertaken in this area, and elaborates on the increasingly important and interrelated notion of liminality within contemporary discussions of spatial practice and theories of place.** Bringing together international scholarship, the book offers a broad range of cross-disciplinary approaches to theories of liminality including literary studies, cultural studies, human geography, social studies, and art and design. The volume offers a timely and fascinating intervention which will help in shaping current debates concerning landscape theory, spatial practice, and discussions of liminality.
 (2016)
-
-![[Landscapes of Liminality Between Space and Place (Dara Downey, Ian Kinane, Elizabeth Parker) (Z-Library) 1.pdf]]
-
+![[Landscapes of Liminality Between Space and Place (Dara Downey, Ian Kinane, Elizabeth Parker) (Z-Library).pdf]]
 #### Thoughts based on Landscapes of Liminality:
 Space = limits, borders = closed/closing
 Liminal = unfolding, becoming = open/opening
@@ -71,7 +69,15 @@ Liminal could be interpreted as micro-religious. Active in ceremonies and packed
 "*To speak of space was thus to speak of how space was occupied—and by whom—and the ways in which space in turn affected and determined the behaviour of those who occupied it, passed through it, and interacted with it.*"
 - Reasoning behind wanting traces of life
 
+*“==liminal moments== are marked by a dissipation of coherence as one state dissolves into another”*
 
+"*As it operates within contemporary academic discourse, liminality, we contend here, is the interdisciplinary, cross-cultural, trans-geographical language of time, or, to be more precise, it is the language through which the passage of time is made coherent and identifiable.*"
+
+"*Thomassen further reminds us that “liminality explains nothing”; liminality is; it happens, and it takes place.45 It is in itself something to be observed, rather than something to be utilised.*"
+- observing instead of utilising
+
+"*some of the links that can be found between liminal spaces and liminal figures*"
+- Liminal figures: such as refugees and the homeless, tourists, travellers/Romani -> enige logische personen in liminal spaces?
 
 ### RANDOM THOUGHTS
 "Limn the liminal" - funny
