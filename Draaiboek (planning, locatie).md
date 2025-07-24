@@ -2,7 +2,7 @@
 La Vallée-Mulâtre, 02110, Frankrijk
 #### vervoer
 Esther + Thyrza met Volvo S60 2001.
-Hannah eigen auto regelen of trein. TBD
+Hannah eigen auto regelen of trein naar Rotterdam en meerijden. TBD
 
 # planning
 Woensdag 27 aug: Heen rijden
@@ -14,12 +14,12 @@ Maandag 1 sep: Esther + Thyrza terug rijden.
 
 # notes
 #### internet: 
-Router aanleggen
+Router aanleggen / kabel
 
 #### slapen: 
 In de boerderij / tent / pipowagen / La Sved (huisje halfaf)
 
-##### programma's:
+##### programma's downloaden van te voren:
 Unity
 Postshot
 # meenemen:
