@@ -8,11 +8,11 @@
 		{"id":"daec72f3c4ce2ca3","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.17 (1).jpeg","x":143,"y":-760,"width":400,"height":300},
 		{"id":"9ab0995b8ea36631","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.22 (1).jpeg","x":-300,"y":-760,"width":400,"height":300},
 		{"id":"33d0c4d662fb379d","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.20 (2).jpeg","x":-300,"y":-1100,"width":400,"height":300},
-		{"id":"379bda42f1502c86","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_225923.jpg","x":-300,"y":-1774,"width":593,"height":288},
+		{"id":"379bda42f1502c86","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_225923.jpg","x":-300,"y":-1774,"width":592,"height":288},
 		{"id":"abaa3390a4fb5776","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_231049.jpg","x":344,"y":-1774,"width":592,"height":288},
 		{"id":"e76cda2f89f7d1df","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250723_163624.jpg","x":344,"y":-2134,"width":592,"height":288},
 		{"id":"c3173d9b69967e9a","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_231323.jpg","x":-300,"y":-2126,"width":576,"height":280},
-		{"id":"0d111338adcbdd33","x":-297,"y":-2460,"width":573,"height":260,"type":"file","file":"Screenshot 2024-01-30 213505.jpg"}
+		{"id":"0d111338adcbdd33","type":"file","file":"Screenshot 2024-01-30 213505.jpg","x":-297,"y":-2460,"width":572,"height":260}
 	],
 	"edges":[]
 }

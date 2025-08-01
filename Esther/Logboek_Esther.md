@@ -1,5 +1,5 @@
 #### 01 Augustus
-- 
+- samenbrengen foto's van alles
 
 #### 22 juli 2025 meeting
 balans vinden als snel vormen vinden en rauw randje eraan geven 
