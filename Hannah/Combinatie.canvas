@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"84e858eb2f9e3cea","type":"group","x":869,"y":-1380,"width":2051,"height":1340,"label":"Space/world we dont have access to"},
+		{"id":"06a2aa125510a6aa","type":"group","x":899,"y":687,"width":1741,"height":1153,"label":"Space/world we are part of"},
+		{"id":"8a62c298d098a2cd","x":-820,"y":437,"width":1207,"height":440,"type":"group","label":"Gewoon raar"},
+		{"id":"788c85915c058963","type":"group","x":-760,"y":-427,"width":826,"height":613,"label":"Repurpose unclear"},
+		{"id":"c18ed778a8fe2ac7","type":"file","file":"Thyrza/foto's/P_20250731_010555.jpg","x":919,"y":715,"width":300,"height":400},
+		{"id":"2cd164a5e4877db1","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.18 (2).jpeg","x":-354,"y":-407,"width":400,"height":300},
+		{"id":"06f2d541c3bc109a","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250723_163624.jpg","x":-353,"y":-28,"width":399,"height":194},
+		{"id":"f92dda82103b2410","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.18.jpeg","x":-740,"y":-307,"width":300,"height":400},
+		{"id":"f38b3ee5f54fe7a6","type":"file","file":"Thyrza/foto's/P_20250731_002022.jpg","x":1260,"y":-657,"width":300,"height":400},
+		{"id":"dee5d5111c015a05","type":"file","file":"Thyrza/foto's/P_20250731_002252.jpg","x":1580,"y":-657,"width":400,"height":300},
+		{"id":"761666bc33d55b90","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_230330.jpg","x":2026,"y":-856,"width":194,"height":399},
+		{"id":"a858ec6551de1bd0","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_230339.jpg","x":2246,"y":-856,"width":194,"height":399},
+		{"id":"d53042c126bfec0a","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_231323.jpg","x":2040,"y":-416,"width":399,"height":194},
+		{"id":"0cd0fbaf603cdf7b","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.21.jpeg","x":919,"y":-657,"width":300,"height":400},
+		{"id":"2351945281243cc9","type":"file","file":"Thyrza/foto's/P_20250731_002841.jpg","x":1260,"y":707,"width":300,"height":400},
+		{"id":"11541e86e8ec3c5b","type":"file","file":"Thyrza/foto's/P_20250731_224109.jpg","x":919,"y":-1120,"width":300,"height":400},
+		{"id":"ab42e3733d3661f7","type":"file","file":"Thyrza/foto's/P_20250731_003322.jpg","x":1560,"y":715,"width":300,"height":400},
+		{"id":"e8ab4581e7f1cdd0","type":"file","file":"Thyrza/foto's/P_20250731_002443.jpg","x":1920,"y":707,"width":300,"height":400},
+		{"id":"25a72e4f55deb7c6","type":"file","file":"Thyrza/foto's/P_20250731_004423.jpg","x":1280,"y":-1120,"width":300,"height":400},
+		{"id":"fb3d966419dc8534","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.21 (1).jpeg","x":2400,"y":-1270,"width":400,"height":300},
+		{"id":"53171af9cdf05c73","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.21 (3).jpeg","x":1943,"y":-1270,"width":400,"height":300},
+		{"id":"433e79cee52fa875","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_225923.jpg","x":2521,"y":-771,"width":399,"height":194},
+		{"id":"46f33397f408157e","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.15 (3).jpeg","x":2520,"y":-522,"width":400,"height":300},
+		{"id":"d878096637429995","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.16.jpeg","x":-454,"y":557,"width":400,"height":300},
+		{"id":"5acaf9bc4cc44c25","type":"file","file":"Thyrza/foto's/P_20250726_230733.jpg","x":67,"y":457,"width":300,"height":400},
+		{"id":"1366bafce71ec7c4","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.23 (3).jpeg","x":-800,"y":457,"width":300,"height":400},
+		{"id":"f1f7913e2663df9c","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.22 (4).jpeg","x":960,"y":1160,"width":300,"height":400},
+		{"id":"32819a3b37f6ce47","type":"file","file":"Hannah/LiminalSpace_Fotos_Hannah/WhatsApp Image 2025-08-01 at 18.30.22 (1).jpeg","x":1315,"y":1236,"width":432,"height":324}
+	],
+	"edges":[]
+}
