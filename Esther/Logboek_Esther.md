@@ -1,3 +1,6 @@
+#### 01 Augustus
+- 
+
 #### 22 juli 2025 meeting
 balans vinden als snel vormen vinden en rauw randje eraan geven 
 - hard kleurcontrast
@@ -10,7 +13,7 @@ balans vinden als snel vormen vinden en rauw randje eraan geven
 Ontwerpdrang naar orde wat gebruikt wordt voor wanorde.
 
 Mee naar Frankrijk
-- internetkabel? --> lang, voor uit het huis naar de schuur
+- internetkabel? --> lang, voor uit het huis naar de schuur --> besteld 50m cat6
 - router mee die als extender kan werken -> of unmanaged switch
 - router mee voor onderlinge communicatie
 - ethernet kabels 5x
