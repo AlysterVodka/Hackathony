@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"a1c869e7813d5a9c","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250723_163624.jpg","x":-140,"y":400,"width":400,"height":194},
+		{"id":"a2960f89f7ab48ab","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250723_163604.jpg","x":-140,"y":620,"width":400,"height":194},
+		{"id":"8762680cc8895cae","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250723_162534.jpg","x":-600,"y":400,"width":194,"height":400},
+		{"id":"18ebb4edc0053c43","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_231457.jpg","x":-903,"y":-140,"width":194,"height":399},
+		{"id":"0551d3d26ec110fb","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250723_162530.jpg","x":-374,"y":401,"width":194,"height":399},
+		{"id":"e5283b451962cea2","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_230117.jpg","x":-368,"y":-631,"width":194,"height":399},
+		{"id":"e32242fe68b5cf27","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_230213.jpg","x":-94,"y":-528,"width":399,"height":194},
+		{"id":"f9852074ad553d0e","x":163,"y":-1120,"width":194,"height":400,"type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_230330.jpg"},
+		{"id":"d32f6ac9cc8e1509","x":400,"y":-1120,"width":194,"height":400,"type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_230356.jpg"},
+		{"id":"d9fd98276cb548b4","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250723_162544.mp4","x":-600,"y":840,"width":400,"height":225},
+		{"id":"ea47d93ea00c7929","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_231655.jpg","x":-691,"y":-141,"width":194,"height":400},
+		{"id":"e38779e022e4656c","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_225833.jpg","x":307,"y":-134,"width":399,"height":194},
+		{"id":"81047fd91357a508","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_224615.jpg","x":-139,"y":86,"width":399,"height":194},
+		{"id":"8cd5d1d44ca329c3","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_225923.jpg","x":307,"y":86,"width":399,"height":194},
+		{"id":"8d5f5924ef9e85dd","x":-133,"y":-134,"width":400,"height":194,"type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_230944.jpg"},
+		{"id":"f7b6ba8a8503879b","type":"file","file":"Esther/LiminalSpace_FotoArchief/20250723_163540.jpg","x":-140,"y":840,"width":400,"height":194},
+		{"id":"ae2c20bdf82284ce","x":-915,"y":-1217,"width":400,"height":194,"type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_231049.jpg"},
+		{"id":"1ab54164efd2127b","x":-909,"y":-977,"width":400,"height":194,"type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_231028.jpg"},
+		{"id":"57a113f0d3f57b7d","x":163,"y":-1400,"width":440,"height":214,"type":"file","file":"Esther/LiminalSpace_FotoArchief/20250712_231323.jpg"}
+	],
+	"edges":[
+		{"id":"ce53ff1012f69424","fromNode":"e5283b451962cea2","fromSide":"right","toNode":"e32242fe68b5cf27","toSide":"left"},
+		{"id":"281581d1d3f62c74","fromNode":"8cd5d1d44ca329c3","fromSide":"top","toNode":"e38779e022e4656c","toSide":"bottom"}
+	]
+}
