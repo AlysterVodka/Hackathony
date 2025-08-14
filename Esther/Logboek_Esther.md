@@ -1,6 +1,6 @@
 #### 01 Augustus
 - samenbrengen foto's van alles
-
+- nieuwe repo plek voor grote bestanden: https://dev.azure.com/alystervodka/Hak [project data o.a.]
 #### 22 juli 2025 meeting
 balans vinden als snel vormen vinden en rauw randje eraan geven 
 - hard kleurcontrast
