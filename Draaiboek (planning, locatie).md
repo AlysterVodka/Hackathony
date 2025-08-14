@@ -24,8 +24,27 @@ Unity
 Postshot
 # meenemen:
 ##### Esther
-- abc
+JA
+- haspel met 50m ethernet
+- gaming laptop
+- coding laptop
+- telefoonstatief
+- stekkerblok / haspel 10m
+- kabels en toebehoren
+- routert --> esp32?
+- domme switch
 
+MISSCHIEN
+- sensoren / esp32 ontwikkelset met prikbordjes
+- VR headset [Oculus Quest 1]
+- EEG sensor [communiceert via OSC of bluetooth]
+- webcam
+- leap motion [handsensor]
+- LED parren [DMX lichten, ook standalone]
+
+OVERIGE
+- slaapzak
+- kussen
 ##### Hannah
 - abc
 
