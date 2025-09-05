@@ -1,3 +1,5 @@
+### 28 Augustus
+- tunnel in vierkant en dan de gerecorde spaces gaan dan over i 3d gebouwde spaces 
 #### 01 Augustus
 - samenbrengen foto's van alles
 - nieuwe repo plek voor grote bestanden: https://dev.azure.com/alystervodka/Hak [project data o.a.]

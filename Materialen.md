@@ -48,6 +48,7 @@
 		- Win 11 Geforce 2060
 		- win 10 thinkpad X1 Yoga
 	- projector 1080p semi-wide throw
+	- projector short throw 4k
 	- printer HP A4
 	- routers extra 2x
 	- Focusrite 2i2 2x
