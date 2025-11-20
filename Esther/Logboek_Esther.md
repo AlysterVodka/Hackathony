@@ -1,5 +1,27 @@
+### 19 nov
+- Hanna errors specifiek over pix --> moest visual studio updaten
+- 
+### 18 nov
+- looking into Git / Azure issues
+	- iedereen admin gemaakt
+	- rechten gecontroleerd van beide accounts: in orde
+	- tips voor beiden:
+		- GIT LFS INSTALL + commit .gitattributes.
+		- `git remote -v` → noteer URL (https of ssh)
+- `git lfs env` en `git lfs status` → copy/paste output.
+- Maak PAT in Azure (scope: Code read & write). Kopieer token. [Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&utm_source=chatgpt.com)
+- Wis oude credentials (Windows Credential Manager / Keychain / linux keyring).
+- `git config --global credential.helper manager-core` en probeer `git push`. Als credential prompt verschijnt: username=mail, password=PAT. [Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/repos/git/set-up-credential-managers?view=azure-devops&utm_source=chatgpt.com)
+- Als push blijft hangen: probeer vanaf ander netwerk / hotspot.
+- Als LFS errors verschijnen of grote bestanden: update git-lfs en voer `git lfs install`.
 ### 28 Augustus
 - tunnel in vierkant en dan de gerecorde spaces gaan dan over i 3d gebouwde spaces 
+### 30 Aug 2025
+- nieuwe vrpawn_custom gemaakt voor custom logica met behoud van de originele pawn
+- gehele scene uitgewerkt: alleen 1_tramhalte lijkt tegen te bewegen
+- 
+### 29AUG 2025
+- project omgezet naar cpp mogelijkheid. script toegevoegd voor het meebewegen van meshes. om scripts te compilen, even de splat plugin #xv3dgs uitzetten. die geeft een compiler error maar werkt voor de rest wel.
 #### 01 Augustus
 - samenbrengen foto's van alles
 - nieuwe repo plek voor grote bestanden: https://dev.azure.com/alystervodka/Hak [project data o.a.]
