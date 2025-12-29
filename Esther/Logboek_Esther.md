@@ -1,3 +1,7 @@
+### 23 nov
+- key presses werken niet
+- actor overlap lijkt niet te werken
+- objecten bewegen niet behalve 1_tramhalte
 ### 19 nov
 - Hanna errors specifiek over pix --> moest visual studio updaten
 - 

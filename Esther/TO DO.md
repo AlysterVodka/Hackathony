@@ -1,0 +1,8 @@
+- [ ] lichtje aan als je naar de loading dock kijkt en dichtbij genoeg bent
+- [ ] BP 4 [garage] aan als je de grens van de versperring bent gepasseerd
+- [ ] alle objecten behalve versperring en toren bewegen [check parallax script]
+- [ ] Toren lampje aan als je dichtbij genoeg bent en kijkt richting de toren
+- [ ] dubbelcheck raycast setup in player BP
+- [ ] inputmanager checken [werken niet]
+- [ ] overlap mechanisms checken [werken ook niet]
+- [ ] 

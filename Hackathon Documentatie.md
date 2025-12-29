@@ -11,7 +11,7 @@ wat staat er in, waar staat de file opgeslagen, hoe is het gemaakt
 - Parallax Component is een parent van Place Component : deze organiseert gedeelde eigenschappen van de andere blueprints in de scene.
 ### Logica script
 Scene 1:
-BP 1 en BP 2 BP 3 visible en BP4
+BP 1 en BP 2 BP 3 visible //en BP4
 
 *- kijk naar licht loading dock: *
 
@@ -29,3 +29,4 @@ Rechtsom lopen en dan terug bij BP 1
 - BP 2 en BP 3 visible
 
 Toren blijft altijd [BP6]
+BP2 beweegt niet
